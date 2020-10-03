@@ -1,0 +1,25 @@
+{
+  "name": "twitter-api",
+  "version": "1.0.0",
+  "description": "A Node API to be used in the Build a Twitter clone Front-End with React Coursera guided project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulAshraf/twitter-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulAshraf/twitter-api/issues"
+  },
+  "homepage": "https://github.com/PaulAshraf/twitter-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
